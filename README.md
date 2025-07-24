@@ -1,4 +1,4 @@
-#💸 UPI Transactions Analysis Dashboard (2024) – Power BI Project.
+###💸 UPI Transactions Analysis Dashboard (2024) – Power BI Project.
 
 This Power BI project presents a detailed and interactive analysis of Unified Payments Interface (UPI) transactions for the year 2024, using structured and categorized transaction data to uncover insights and patterns in digital payments across various user demographics, cities, banks, and payment methods.
 
